@@ -1,0 +1,7 @@
+UK MARKET FROM CHRA
+ژ بۆ بڵاڤکرنێ، ZIP ـێ ڤەکە. index.html و هەمی فایل و فۆلدەرێن ل گەل وێ بخە ناڤ فۆلدەرا سەرەکی یا هۆستێ خۆ (بۆ نموونە public_html).
+ئەگەر هۆست فایلێ index.html هەبیت، پێشتر کۆپیەکێ ژێ هەلگرە.
+For static hosting upload the extracted contents so index.html is at the site root. No build command or database is required. Keep img/ and its subfolders beside index.html.
+Editing: catalog.js and world.js contain product records. The six ZICO entries are defined in app.js. null prices are confirmed through WhatsApp.
+WhatsApp orders: +964 750 640 5440. The customer reviews and sends the prepared message.
+Product pictures illustrate products and packaging. Local stock and final prices are confirmed by UK MARKET.
